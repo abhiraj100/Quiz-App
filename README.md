@@ -1,12 +1,92 @@
-# React + Vite
+# 📚 React-Quiz-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 Project Overview
 
-Currently, two official plugins are available:
+React-Quiz-App is an interactive quiz application built with React.js. This app provides a seamless quiz experience with countdown timers, score tracking, and automatic question navigation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🎯 Features
 
-## Expanding the ESLint configuration
+🔥 Start Quiz Button
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🕒 Countdown Timer (10 seconds per question)
+
+✅ Real-time Score Tracking
+
+🎯 Correct & ❌ Incorrect Answer Highlighting
+
+🔐 Locked Options After Selection
+
+🔄 Automatic Question Navigation
+
+📱 Fully Mobile Responsive
+
+🎓 Final Score Display
+
+# 🛠️ Technologies Used
+
+React.js
+
+CSS
+
+JavaScript
+
+# 📌 Installation
+
+Clone the Repository:
+
+git clone https://github.com/abhiraj100/Quiz-App.git
+
+Navigate to Project Directory:
+
+cd react-quiz-app
+
+Install Dependencies:
+
+npm install
+
+Run the Application:
+
+npm run dev
+
+# 🏗️ Project Structure
+
+├── public
+├── src
+│ ├── assets
+│ │ └── quizData.js # Quiz Questions Data
+│ ├── components
+│ │ └── Quiz.js # Quiz Component
+│ ├── App.js # Main App Component
+│ ├── index.js # Entry Point
+│ └── Quiz.css # Styling
+└── package.json
+
+# 🎯 How to Use
+
+Click on the Start Quiz button.
+
+Select an option before the timer ends.
+
+See instant feedback on your selection.
+
+Click Next to proceed to the next question.
+
+After the final question, your Total Score will be displayed.
+
+💻 Demo
+
+📜 License
+
+This project is licensed under the .
+
+👨‍💻 Author
+
+Abhiraj Yadav
+
+# 📌 GitHub:
+
+[vikarnjha](https://github.com/abhiraj100)
+
+Feel free to ⭐ the repo and contribute!
+
+Happy Coding! 🎯🚀
