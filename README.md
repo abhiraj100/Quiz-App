@@ -75,9 +75,11 @@ After the final question, your Total Score will be displayed.
 
 💻 Demo
 
+[Deployed Link](https://quiz-app-zeta-virid.vercel.app/)
+
 📜 License
 
-This project is licensed under the .
+This project is licensed under the MIT License.
 
 👨‍💻 Author
 
@@ -85,7 +87,7 @@ Abhiraj Yadav
 
 # 📌 GitHub:
 
-[vikarnjha](https://github.com/abhiraj100)
+[abhiraj100](https://github.com/abhiraj100)
 
 Feel free to ⭐ the repo and contribute!
 
