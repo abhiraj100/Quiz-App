@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #1e272e;
+    background: #99c1e0;
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -11,7 +11,7 @@ body {
   .container {
     max-width: 600px;
     margin: auto;
-    background: #2f3640;
+    background: #517ab5;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
